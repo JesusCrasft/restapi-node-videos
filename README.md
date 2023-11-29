@@ -26,7 +26,7 @@ Aun en desarrollo.
 - [ ] Terminar los issues pendientes
 
 ## Contribute / Para contribuir
-1. Has un [Fork](https://github.com/JesusCrasft/restapi_videoslist/fork)
+1. Has un [Fork](https://github.com/JesusCrasft/restapi-node-videos/fork)
 2. Crea tu propia rama (git checkout -b feature/fooBar)
 3. Sube tus cambios (git commit -am 'Add some fooBar')
 4. Actualiza tu rama (git push origin feature/fooBar)
