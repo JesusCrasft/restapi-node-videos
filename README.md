@@ -1,4 +1,4 @@
-# Videos Manager
+# Simple Video Manager
 > Es una aplicacion web que de la cual solo estoy desarrollando el backend en este repositorio.
 > 
 > Aun no esta terminado pero la idea es que se pueda obtener una lista de videos de un canal de youtube especifico, ordenarlos en una lista y modificarlos a gusto.
